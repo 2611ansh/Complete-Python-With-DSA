@@ -1,7 +1,3 @@
-Certainly! Here's a draft for your README file that includes links to the Jupyter Notebook files corresponding to each solved problem:
-
----
-
 # Complete Python With DSA
 
 This repository contains solutions to various data structures and algorithms problems implemented in Python.
@@ -23,11 +19,3 @@ Each problem solution is implemented in a separate Jupyter Notebook file. You ca
 
 ## License:
 This repository is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-### Notes:
-- Replace the spaces in the filenames with `%20` in the links to ensure proper formatting in Markdown.
-- Adjust the paths to the Jupyter Notebook files (`ipynb` files) based on your actual directory structure in the repository.
-
-This draft provides a basic structure for your README file that links directly to the Jupyter Notebook files where each problem is solved. Adjust and expand it further as needed for your specific repository setup and additional content you may want to include.
